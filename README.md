@@ -1,9 +1,19 @@
-### Hi there, I'm Giovani 👋
+## Hi there, I'm Giovani 👋
 
 ![alt text](https://media.licdn.com/dms/image/C4D16AQGsOj4mNybRjA/profile-displaybackgroundimage-shrink_350_1400/0/1668187103702?e=1680134400&v=beta&t=yii_O9lUUp1RVqVnr_kELbZgQ7bdXyCP61ieeiwaoE0)
 
+### About
 - 🧑🏽‍💻 Currently working on SENAI Institute of Technology
 - 🚀 I’m ALWAYS learning...
+
+### Current stack
+- Main Language: 'Javascript'
+- Backend: 'Nodejs'
+- Frontend: 'React.js', 'HTML5', 'CSS3', 'Javascript'
+- Layout Design: 'Figma'
+- Version code control: 'Git & Github'
+- Tools: 'VsCode', 'Markdown'
+- I'm mostly active within the 'Rocketseat community'
 
 #### I'm a human being, learning from my mistakes and always looking to be better than I was yesterday.
 
