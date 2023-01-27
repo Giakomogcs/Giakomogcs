@@ -7,13 +7,13 @@
 - 🚀 I’m ALWAYS learning...
 
 ### Current stack
-- Main Language: 'Javascript'
+- Main Language: `Javascript`
 - Backend: 'Nodejs'
-- Frontend: 'React.js', 'HTML5', 'CSS3', 'Javascript'
-- Layout Design: 'Figma'
-- Version code control: 'Git & Github'
-- Tools: 'VsCode', 'Markdown'
-- I'm mostly active within the 'Rocketseat community'
+- Frontend: `React.js`, `HTML5`, `CSS3`, `Javascript`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+- Tools: 'VsCode', `Markdown`
+- I'm mostly active within the `Rocketseat community`
 
 #### I'm a human being, learning from my mistakes and always looking to be better than I was yesterday.
 
