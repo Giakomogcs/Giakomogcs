@@ -7,7 +7,7 @@
 - 🚀 I’m ALWAYS learning...
 
 ### Current stack
-- Main Language: `Javascript`
+- Main Language: `Javascript`, `Python`
 - Backend: 'Nodejs'
 - Frontend: `React.js`, `HTML5`, `CSS3`, `Javascript`
 - Layout Design: `Figma`
