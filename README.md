@@ -1,7 +1,5 @@
 ## Hi there, I'm Giovani 👋
 
-![alt text]([https://media.licdn.com/dms/image/C4D16AQGsOj4mNybRjA/profile-displaybackgroundimage-shrink_350_1400/0/1668187103702?e=1680134400&v=beta&t=yii_O9lUUp1RVqVnr_kELbZgQ7bdXyCP61ieeiwaoE0](https://media.licdn.com/dms/image/C4D16AQGsOj4mNybRjA/profile-displaybackgroundimage-shrink_350_1400/0/1668187103702?e=1687392000&v=beta&t=DBKmeZpCnin_IiBlRuTR3gGWOsaOnw4jQ1_s5rL_CQc))
-
 ### About
 - 🧑🏽‍💻 Currently working on SENAI Institute of Technology
 - 🚀 I’m ALWAYS learning...
