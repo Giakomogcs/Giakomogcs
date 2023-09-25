@@ -6,7 +6,7 @@
 
 ### Current stack
 - Main Language: `Javascript`, `Python`
-- Backend: 'Nodejs'
+- Backend: `Nodejs`
 - Frontend: `React.js`, `HTML5`, `CSS3`, `Javascript`
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
