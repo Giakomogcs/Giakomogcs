@@ -21,3 +21,6 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1M4Asf_qqrpB8wEciuCw6dqB4bcdam-Hl/view?usp=sharing)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-costa-silva-b17b72171/)
+
+## 📊 Minhas Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Giakomogcs&show_icons=true&theme=radical)
